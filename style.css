@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -744,6 +744,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    
 }
 
 .portfolio-thumb {
@@ -760,7 +761,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(110, 98, 66, 0.7);
     padding: 40px 40px 40px 40px;
 }
 

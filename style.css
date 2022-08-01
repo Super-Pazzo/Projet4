@@ -681,7 +681,7 @@ p {
 }
 
 .textsub {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -783,15 +783,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #d7855f;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #d7855f!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #d7855f;
     color: #FFFFFF!important;
 }
 

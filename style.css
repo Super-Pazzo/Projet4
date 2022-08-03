@@ -44,12 +44,38 @@ a:hover {
     padding-right: 0;
 }
 
+
+.titlebloc2 {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.citationbloctext {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.citationtext {
+    font-size: 18px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.namecitation {
+    margin-top: -10px;
+    font-size: 18px;
+    color: #8f8f8f!important;
+}
+
 .bloc-lg {
     padding: 100px 50px;
 }
 
 .bloc-md {
     padding: 50px;
+    
 }
 
 .bloc-sm {
@@ -682,7 +708,7 @@ p {
 
 .textsub {
     font-size: 16px;
-    font-weight: bold;
+    color: #000000!important;
 }
 
 .tight-width-whitespace {
@@ -899,6 +925,15 @@ h4 {
         padding: 0 20px;
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
+    }
+    .titlebloc2 {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+    .citationbloctext {
+        text-align: center;
+        padding-left: 20%;
+        padding-right: 20%;
     }
 }
 

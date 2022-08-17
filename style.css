@@ -873,6 +873,7 @@ h4 {
 }
 
 .bg-presentation {
+    z-index: -2;
     background-image: url("img/image-de-presentation.jpg");
 }
 
